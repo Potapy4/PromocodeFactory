@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using PromoCodeFactory.Core.Domain.Administration;
 
 namespace PromoCodeFactory.WebHost.Models
 {
